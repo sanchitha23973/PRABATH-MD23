@@ -23,7 +23,7 @@
         "@sl-code-lords/movie-dl": "1.1.0",
         "@sl-code-lords/photooxy": "1.0.1",
         "@sl-code-lords/si-subdl": "1.1.1",
-        "@sl-code-lords/wabetainfo": "1.2.0",
+        "@sasmeee/wabetainfo": "^1.0.5",
         "@tobyg74/tiktok-api-dl": "1.0.13",
         "@vitalets/google-translate-api": "9.2.0",
         "@whiskeysockets/baileys": "6.7.16",
